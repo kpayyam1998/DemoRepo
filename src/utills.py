@@ -5,3 +5,6 @@ def add(a,b):
 
 def subtract(a,b):
     return a - b
+
+def stringConcat(a,b):
+    return a + b
